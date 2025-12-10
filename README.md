@@ -3,10 +3,6 @@
 A modern, responsive, and interactive frontend website for AMU Tech Community, built using React, TypeScript, TailwindCSS, and Vite.
 The project showcases hero sections, events, gallery, community activities, contact page, and more — all optimized for performance and clean UI.
 
-🚀 Live Demo
-
-
-
 🛠️ Tech Stack
 Technology	Purpose
 React + TypeScript	Component-based UI with type safety
