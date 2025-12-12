@@ -7,7 +7,7 @@ Designed to showcase community activities, events, projects, gallery, and commun
 
 🔗 Production URL: https://amu-tech.netlify.app
 
-Production URL: https://amu-tech.netlify.app
+
 
 
 🧠 Overview
